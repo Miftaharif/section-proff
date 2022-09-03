@@ -73,7 +73,7 @@ body {
     body {
         width: 100vw;
         text-align: left;
-        padding: 100px 320px;
+        padding: 100px 200px;
         box-sizing: border-box;
         background-image: url(./images/bg-pattern-top-desktop.svg), 
         url(./images/bg-pattern-bottom-desktop.svg);
